@@ -33,6 +33,27 @@ section> p {
     margin: 1em 0
 }
 
+#Projects{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto;
+    grid-gap:1em;
+}
+
+#Projects article{
+    padding: 1em;
+}
+
+#Projects article img{
+    height: 100px;
+    width: 100px;
+    margin: .5em
+}
+
 footer{
     height: 100px;
+}
+
+footer section ul{
+    padding-left: 1.5em;
 }

@@ -8,15 +8,23 @@ header{
     background-color: rgb(0, 0, 0);
 }
 
-footer{
-    background-color: black;
-    color: white;
-}
-
 h1, h2, h3{
     color: #666;
 }
 
 section{
     margin: 1em;
+}
+
+#Projects article{
+    background-color: rgb(177, 177, 177);
+    border: 1px solid #666;
+}
+#Projects article img{
+    border: 1px solid black;
+}
+
+footer{
+    background-color: black;
+    color: white;
 }
