@@ -8,7 +8,7 @@ header{
 }
 
 #Logo{
-    margin-left: 2rem;
+    margin-left: 1rem;
 }
 
 #Logo img{
@@ -16,9 +16,9 @@ header{
 }
 
 nav{
-    margin-right: 2rem;
+    margin-right: 1rem;
     display: flex;
-    width: 350px;
+    width: 270px;
     justify-content: space-around
 }
 
