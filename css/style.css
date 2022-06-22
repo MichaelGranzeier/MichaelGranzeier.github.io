@@ -8,6 +8,10 @@ header{
     background-color: rgb(0, 0, 0);
 }
 
+header a{
+    color: green;
+}
+
 h1, h2, h3{
     color: #666;
 }
@@ -27,4 +31,12 @@ section{
 footer{
     background-color: black;
     color: white;
+}
+
+#GetInTouch h2{
+    color: white;
+}
+
+footer a{
+    color: green;
 }
