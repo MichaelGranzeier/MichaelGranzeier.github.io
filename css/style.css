@@ -12,6 +12,22 @@ header a{
     color: green;
 }
 
+header a:hover{
+    background-color: #333;
+}
+
+main a:link{
+    color:rgb(0, 0, 0);
+}
+
+main a:visited{
+    color:rgb(0, 0, 0);
+}
+
+main a:hover{
+    color: red;
+}
+
 h1, h2, h3{
     color: #666;
 }
@@ -39,4 +55,8 @@ footer{
 
 footer a{
     color: green;
+}
+
+footer a:hover{
+    background-color: #333;
 }
