@@ -28,7 +28,11 @@ main a:hover{
     color: red;
 }
 
-h1, h2, h3{
+h1{
+    color: #333;
+}
+
+h2{
     color: #666;
 }
 
@@ -49,7 +53,7 @@ footer{
     color: white;
 }
 
-#GetInTouch h2{
+#Get{
     color: white;
 }
 

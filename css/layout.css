@@ -22,6 +22,19 @@ nav{
     justify-content: space-around
 }
 
+h1,
+h2{
+    text-align: center;
+}
+
+main a{
+    align-items: center;
+}
+
+#Get{
+    text-align: left;
+}
+
 header,
 main,
 footer{
@@ -35,7 +48,7 @@ section> p {
 
 #Projects{
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px,150px));
     grid-template-rows: auto;
     grid-gap:.5em;
 }
