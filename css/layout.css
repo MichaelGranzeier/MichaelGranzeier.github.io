@@ -61,7 +61,7 @@ section> p {
 }
 
 footer{
-    height: 100px;
+    height: 110px;
 }
 
 footer section ul{
@@ -85,4 +85,6 @@ footer section ul{
 #mode{
     display: flex;
     justify-content: center;
+    margin-top: 0;
+    margin-bottom: 1em;
 }
