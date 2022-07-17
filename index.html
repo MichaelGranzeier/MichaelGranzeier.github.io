@@ -11,14 +11,22 @@
 <body>
     <header>
         <div id = "Logo"><img src="/images/AirBrush_20210525195029 (1).jpg" alt="My headshot"></div>
-        <nav>
-            <a href="#Skills">My Skills</a>
-            <a href="#AboutMe">About Me</a>
-            <a href="#MyProjects">Projects</a>
+        <button id="nav">Menu</button>
+
+        <div id="navModal" class="modal">
+        
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <nav>
+            <a href="#Skills">My Skills</a><br>
+            <a href="#AboutMe">About Me</a><br>
+            <a href="#MyProjects">Projects</a><br>
             <a href="#GetInTouch">Get in Touch</a>
         </nav>
+          </div>
+        </div>
     </header>
-    <main>
+    <main id="main">
         <h1>Michael Granzeier</h1>
         <section id="Skills">
             <h2>My Skills</h2>
@@ -53,7 +61,7 @@
                 <article>
                     <a href="https://github.com/MichaelGranzeier/MichaelGranzeier.github.io">Portfolio</a>
                     <img src="images\Portfolio.png" alt="file bag full of files.">
-                    <p>A demonstration of my HTML and CSS skills.</p>
+                    <p>A demonstration of my HTML, JaveScript and CSS skills.</p>
                 </article>
                 <article>
                     <a href="https://github.com/2022-Summer-Cohort/m3-blog-platform-MichaelGranzeier">Blog Platform</a>
@@ -81,6 +89,11 @@
                 <li><a href="https://www.linkedin.com/in/michael-granzeier/">LinkedIn</a></li>
             </ul>
         </section>
+        <section id="mode">
+            <button id="nightMode" onclick="nm()">Night Mode</button>
+        <button id="dayMode" onclick="dm()">Day Mode</button>
+        </section>
     </footer>
+    <script src="index.js"></script>
 </body>
 </html>

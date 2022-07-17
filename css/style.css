@@ -64,3 +64,35 @@ footer a{
 footer a:hover{
     background-color: #333;
 }
+
+#nightMode{
+    color: green;
+    background-color: black;
+}
+
+.modal-content {
+    background-color: #000;
+}
+  
+.close {
+    color: #000;
+    float: right;
+    
+}
+  
+.close:hover,
+.close:focus {
+    color: green;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#nav{
+    color: green;
+    background-color: #000;
+}
+
+#nightMode,
+#dayMode{
+    border: 2px solid #333;
+}
