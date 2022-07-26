@@ -1,3 +1,4 @@
+//mode buttons
 function nm(){
     document.body.style.backgroundColor = "black"
     document.getElementById("main").style.color = "green";
