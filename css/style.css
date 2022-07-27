@@ -90,9 +90,19 @@ footer a:hover{
 #nav{
     color: green;
     background-color: #000;
+    box-shadow: 1px 1px 1px 1px #333;
+}
+
+#nav:hover{
+    box-shadow: 1px 1px 5px 1px red;
 }
 
 #nightMode,
 #dayMode{
-    border: 2px solid #333;
+    box-shadow: 1px 1px 1px 1px #333;
+}
+
+#nightMode:hover,
+#dayMode:hover{
+    box-shadow: 1px 1px 5px 1px red;
 }
