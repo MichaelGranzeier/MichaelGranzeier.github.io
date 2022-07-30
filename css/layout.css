@@ -24,6 +24,10 @@ h2{
     text-align: center;
 }
 
+main{
+    min-height: 490px;
+}
+
 main a{
     align-items: center;
 }
