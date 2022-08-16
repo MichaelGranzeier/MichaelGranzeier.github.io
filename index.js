@@ -64,8 +64,15 @@ function MyProjects(){
           <img src="images/album collection.jpg" alt="four records with music notes in front">
           <p>A demonstration of my ability work in a team to create a rest API.</p>
       </article>
+      <article>
+          <a href="https://github.com/2022-Summer-Cohort/Summer2022-MoodPlus">MoodPlus</a>
+          <img src="images/moodplusv10.png" alt="Two hands holding up a tree.">
+          <p>A group prject that shows my ability to work in large groups.</p>
+      </article>
   </div>
 </section>`
+
+document.getElementById("Projects").style.color = "black";
 }
 
 //mode buttons

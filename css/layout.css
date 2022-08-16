@@ -5,6 +5,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
 }
 
 #Logo{
@@ -25,7 +27,7 @@ h2{
 }
 
 main{
-    min-height: 490px;
+    min-height: 690px;
 }
 
 main a{
