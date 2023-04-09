@@ -69,6 +69,11 @@ function MyProjects(){
           <img src="images/moodplusv10.png" alt="Two hands holding up a tree.">
           <p>A group prject that shows my ability to work in large groups.</p>
       </article>
+      <article>
+          <a href="https://github.com/MichaelGranzeier/Hamurabi">Hammurabi</a>
+          <img src="images/Hammurabi.png" alt="A black and white picture of hammurabi.">
+          <p>A group prject that shows my ability to work on my own with JS.</p>
+      </article>
   </div>
 </section>`
 
