@@ -67,12 +67,12 @@ function MyProjects(){
       <article>
           <a href="https://github.com/2022-Summer-Cohort/Summer2022-MoodPlus">MoodPlus</a>
           <img src="images/moodplusv10.png" alt="Two hands holding up a tree.">
-          <p>A group prject that shows my ability to work in large groups.</p>
+          <p>A group project that shows my ability to work in large groups.</p>
       </article>
       <article>
           <a href="https://github.com/MichaelGranzeier/Hamurabi">Hammurabi</a>
           <img src="images/Hammurabi.png" alt="A black and white picture of hammurabi.">
-          <p>A prject that shows my ability to work on my own with JS.</p>
+          <p>A project that shows my ability to work on my own with JS.</p>
       </article>
   </div>
 </section>`
