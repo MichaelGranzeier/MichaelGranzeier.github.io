@@ -72,7 +72,7 @@ function MyProjects(){
       <article>
           <a href="https://github.com/MichaelGranzeier/Hamurabi">Hammurabi</a>
           <img src="images/Hammurabi.png" alt="A black and white picture of hammurabi.">
-          <p>A group prject that shows my ability to work on my own with JS.</p>
+          <p>A prject that shows my ability to work on my own with JS.</p>
       </article>
   </div>
 </section>`
