@@ -17,62 +17,62 @@ function MyProjects(){
   <h1>Michael Granzeier</h1>
   <section id="MyProjects">
   <h2>Projects</h2>
-  <p>These are my Project displaying my ability to write code.</p>
+  <p>The following are examples of my programming projects, which serve as demonstrations of my coding proficiency.</p>
   <div id="Projects">
       <article>
           <a href="https://github.com/MichaelGranzeier/FizzBuzz">FizzBuzz</a>
           <img src="images/FizzBuzz Image.jpg" alt="Words saying FizzBuzz.">
-          <p>A demonstration of a basic understanding of programming.</p>
+          <p>This represents a foundational display of my aptitude in programming.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m1-loops-MichaelGranzeier">Loops</a>
           <img src="images/Loop.jpg" alt="a red and a blue arrows in a circle pointing clockwise.">
-          <p>A demonstration of my understanding of loops.</p>
+          <p>The presented work is indicative of my comprehension and implementation of loop structures within programming.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m1-virtual-pet-MichaelGranzeier">Virtual Pet</a>
           <img src="/images/dog-houses-pet-sitting-kennel-clip-art-dog.png" alt="Dog in a dog house with a dog bowl in front.">
-          <p>A demonstration of my knowledge and understanding of C#.</p>
+          <p>The showcased work serves as a manifestation of my proficiency and comprehension in the utilization of C#.</p>
       </article>
       <article>
           <a href="https://github.com/MichaelGranzeier/MichaelGranzeier.github.io">Portfolio</a>
           <img src="images/Portfolio.png" alt="file bag full of files.">
-          <p>A demonstration of my HTML, JaveScript and CSS skills.</p>
+          <p>The presented work is indicative of my abilities and expertise in the areas of HTML, JavaScript, and CSS.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m3-blog-platform-MichaelGranzeier">Blog Platform</a>
           <img src="images/Blog Image.jpg" alt="A blue and a green chat bobble with the green one saying Blog.">
-          <p>A demonstration of my MVC knowledge and skills.</p>
+          <p>The following project serves as a testament to my knowledge and proficiency in the implementation of the Model-View-Controller (MVC) architecture.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m3-reviews-site-coding-bytes">Reviews Site</a>
           <img src="images/Review.jpg" alt="A blue chat bobble saying reviews with five stars under the word.">
-          <p>A demonstration of my ability to work in a group of three.</p>
+          <p>The presented project is an exemplar of my aptitude to work collaboratively within a team of three individuals.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m4-donut-maker-MichaelGranzeier">Donut Maker</a>
           <img src="images/Donut.png" alt="A donut with pink frosting and multicolored sprinkles">
-          <p>A demonstration of my knowledge of JavaScript.</p>
+          <p>The showcased project is a testimony to my proficiency and understanding of the JavaScript programming language.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m5-web-api-MichaelGranzeier">Web-API</a>
           <img src="images/Web-API.jpg" alt="blue outline of a gear with api writen in the middle">
-          <p>A demonstration of my ability to use APIs.</p>
+          <p>The presented project highlights my adeptness in utilizing APIs to gather and integrate external data into a software application.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/m5-album-collections-blackshirts">Album-Collections</a>
           <img src="images/album collection.jpg" alt="four records with music notes in front">
-          <p>A demonstration of my ability work in a team to create a rest API.</p>
+          <p>The showcased project is an exemplification of my collaborative abilities and proficiency in developing a RESTful API in a team setting.</p>
       </article>
       <article>
           <a href="https://github.com/2022-Summer-Cohort/Summer2022-MoodPlus">MoodPlus</a>
           <img src="images/moodplusv10.png" alt="Two hands holding up a tree.">
-          <p>A group project that shows my ability to work in large groups.</p>
+          <p>The following project serves as a testament to my aptitude for working effectively within a large group of individuals towards a common goal.</p>
       </article>
       <article>
           <a href="https://github.com/MichaelGranzeier/Hamurabi">Hammurabi</a>
           <img src="images/Hammurabi.png" alt="A black and white picture of hammurabi.">
-          <p>A project that shows my ability to work on my own with JS.</p>
+          <p>The presented project is an exemplar of my capacity to work independently and proficiently with JavaScript.</p>
       </article>
   </div>
 </section>`
